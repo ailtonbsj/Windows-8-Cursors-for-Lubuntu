@@ -1,0 +1,10 @@
+Package: lubuntu-win8-cursor-theme
+Version: 0.0.1
+Installed-Size: 210
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Homepage: https://www.pling.com/p/999870
+Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
+ This is an fork from David Farkas (SRZW).

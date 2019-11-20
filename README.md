@@ -1,4 +1,4 @@
-# Windows 8 Cursors for Lubuntu
+# Windows 8 Cursor Theme for Lubuntu 18.04 LTS
 
 This is an fork from David Farkas (SRZW)
 
